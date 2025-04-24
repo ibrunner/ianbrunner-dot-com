@@ -9,8 +9,8 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
+    default: ianbrunner.com
+    template: '%s — ianbrunner.com'
   description: 'ianbrunner.com'
   robots:
     index: true
